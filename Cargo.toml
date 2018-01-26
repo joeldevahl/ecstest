@@ -1,0 +1,6 @@
+[package]
+name = "ecstest"
+version = "0.1.0"
+authors = ["Joel de Vahl <joel@devahl.com>"]
+
+[dependencies]
